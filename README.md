@@ -26,7 +26,6 @@ In windows 7 give the command arp -a
 ## OUTPUT:
 ![image](https://github.com/MrSanthosh-dev/ARP-Attack-and-Network-Sniffing/assets/117916573/a21f692b-efe1-43f8-8a71-6bcf1579acf1)
 
-
 From kali linux issue the command : sudo arpspoof -i eth0 -t 
 ## OUTPUT:
 
@@ -34,16 +33,16 @@ From kali linux issue the command : sudo arpspoof -i eth0 -t
 
  dsniff:
 
-
 In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ## OUTPUT:
 ![image](https://github.com/MrSanthosh-dev/ARP-Attack-and-Network-Sniffing/assets/117916573/8215314f-6e7c-4174-8847-61346b964aa7)
 
- In Kali issue the following commands:
- sudo dsnifff
-## OUTPUT:
+In Kali issue the following commands:
+sudo dsnifff
 
+## OUTPUT:
 ![image](https://github.com/MrSanthosh-dev/ARP-Attack-and-Network-Sniffing/assets/117916573/41a2c226-a014-426f-8bef-92982776f00e)
+
 Invoke the wireshark and examine the various menus  and controls of the tool:
 
 ![image](https://github.com/MrSanthosh-dev/ARP-Attack-and-Network-Sniffing/assets/117916573/7e202808-5599-4005-b892-586686dc354e)
